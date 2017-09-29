@@ -1,3 +1,3 @@
-#Tik Tik on the clock
+## Tik Tik on the clock
 
-Clocks
+Clocks made using HTML, CSS, SVG, JavaScript and JS libraries. Contains reference from various sites and Original Content.
